@@ -1,5 +1,5 @@
-ControlByWeb read temperature python script
-===========================================
+ControlByWeb temperature reading python script
+==============================================
 
 This repo contains simple python script for reading temperature data from a Xytronix ControlByWeb (CBW) device.
 The script is tested on a CBW X-300 but will work on other CBW units as well.
